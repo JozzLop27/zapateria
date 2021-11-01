@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+video{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+    min-height: 100px;
+    
+}
+
+#infoarticulo{
+    text-align: center;
+}
+
+#hot{
+    text-align: center;
+}
+
+#articulos .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#articulos article{
+    margin: 15px;
+}
+#articulos img{
+    width: 70%;
+    max-width: 280px;
+}
+
+
+footer .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.copy {
+    font-size: 20px;
+}
+
+#contacto{
+    text-align: center;
+}
